@@ -7,7 +7,7 @@
     </head>
         @vite('resources/css/app.css')
     <body>
-        <h1>Laravel con Vue</h1>
+        <h1>Laravel con Vue !</h1>
         <div id="app">
         </div>
         @vite('resources/js/app.js')
